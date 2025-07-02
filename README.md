@@ -1,2 +1,3 @@
 # HTML-CSS-YouTube-
-# HTML-CSS-YouTube-
+
+Just me learning HTML and CSS.
